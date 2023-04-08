@@ -1,0 +1,22 @@
+{
+  "name": "example-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbagley1/example-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbagley1/example-repository/issues"
+  },
+  "homepage": "https://github.com/dbagley1/example-repository#readme",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
